@@ -9,15 +9,15 @@ is used in `gomoku.l`. </br>
 
 # Execution
 You need to download `CLISP` for your own personal edition, and then use the following command lines: <br>
-Start CLISP environment: <br>
+- Start CLISP environment: <br>
 `clisp` </br>
-Load file by using: </br>
+- Load file by using: </br>
 `(load "gomoku.l")` </br>
-To start a machine-to-machine gameplay use: </br>
+- To start a machine-to-machine gameplay use: </br>
 `(demo-machine-machine)` </br>
 ****NOTE: </em> giving the function an optional parameter (number) takes control of how many moves in total a user want the program to perform.
 For example, (demo-machine-machine 15) would lead to termination of the program after 15 performed moves (both machine players in total). </br>
-To start a machine-to-human gameplay use :</br>
+- To start a machine-to-human gameplay use :</br>
 `(demo-machine-human)`</br>
 
 # Future Plans
