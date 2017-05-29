@@ -26,5 +26,5 @@ For example, (demo-machine-machine 15) would lead to termination of the program 
 3. GUI for easier interaction. </br>
 
 # Links
-For more information (slides and write-up) about the project and more detailed tasks breakdown, 
+For more information (slides and informal write-up) about the project and more detailed tasks breakdown, 
 please see http://cs.oswego.edu/~yxia/coursework/csc466/project/index.html
