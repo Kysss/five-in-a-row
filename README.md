@@ -28,3 +28,4 @@ For example, (demo-machine-machine 15) would lead to termination of the program 
 # Links
 For more information (slides and informal write-up) about the project and more detailed tasks breakdown, 
 please see http://cs.oswego.edu/~yxia/coursework/csc466/project/index.html
+Presentation slides see https://prezi.com/view/OuLpioC7KR9q5iUSBfms/
